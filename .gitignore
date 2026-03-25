@@ -41,3 +41,9 @@ yarn-error.log*
 next-env.d.ts
 
 /app/generated/prisma
+
+# local database (dev only)
+/prisma/dev.db
+
+# public static assets (if used)
+/public/
